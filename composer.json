@@ -44,7 +44,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ActiveRules\\JsonReference\\": "src"
+            "Activerules\\JsonReference\\": "src"
         },
         "files": [
             "src/functions.php"
@@ -52,8 +52,8 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "ActiveRules\\JsonReference\\Test\\": "tests",
-            "ActiveRules\\JsonReference\\Bench\\": "tests/benchmarks"
+            "Activerules\\JsonReference\\Test\\": "tests",
+            "Activerules\\JsonReference\\Bench\\": "tests/benchmarks"
         }
     },
     "scripts": {
