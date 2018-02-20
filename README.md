@@ -98,3 +98,6 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/bwinkers/json-reference.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/bwinkers/json-reference.svg?style=flat-square
 [ico-docs]: https://img.shields.io/badge/Docs-Latest-brightgreen.svg?style=flat-square
+
+## Sponsored By:
+[UltriNet](http://www.ultri.net)
